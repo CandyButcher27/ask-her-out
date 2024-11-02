@@ -1,0 +1,9 @@
+1. Page 1 remove the sad gif and background change it to something else
+2. in secondpage.html change the omigod omigod part and the do not click the button part
+3. in secondpage.html change the gorgeous beautiful wala part and the click at your own risk wala part
+4. fourthpage.html change the MAke Everything Romantic wala part
+5. ask.html the yes and no emojis/button can be modified
+6. yes.html change the image shown
+7. still hate me -> Do you not like me -> found a boyfriend
+8. change seem you have a boyfriend
+9. change on click on yes if you really dont love me

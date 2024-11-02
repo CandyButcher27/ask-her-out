@@ -1,8 +1,4 @@
-
-body {
-    
-}
-  .envelope-container{
+ .envelope-container{
     position: absolute;
     transform: translate(-50%, -50%);
     left: 50%;

@@ -32,7 +32,7 @@ function resetBG(){
 
 //Linking to Yes and page
 function yesFunction() {
-    window.location.href = "../Page 5/yes.html";
+    window.location.href = "../truck/truck.html";
 }
 function noFunction() {
     window.location.href = "../Page 6/no1.html";

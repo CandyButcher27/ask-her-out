@@ -1,6 +1,7 @@
 body {
 	height: 100vh;
     overflow: hidden;
+    background-color:#ffb9eb;
 }
 
 h1{  
@@ -80,12 +81,18 @@ img{
     transform: translate(-50%, -50%);
 }
 
-.watermark {
-    opacity: 0.5;
-    color: BLACK;
-    position: fixed;
-    top: 97%;
-    left: 47%;
+button{
+    height: auto;
+    border-radius: 66px;
+    background-color: rgb(244, 105, 179);
+    width: auto;
+    font-size: medium;
+}
+
+button:hover  {
+    cursor: pointer;
+    /* transform:scale(1.05); */
+
 }
 
 a{

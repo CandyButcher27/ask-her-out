@@ -22,5 +22,5 @@ function yesFunction() {
     window.location.href = "../Page 7/no2.html";
 }
 function noFunction() {
-    window.location.href = "../Page 5/yes.html";
+    window.location.href = "../moving yes sign/index.html";
 }
